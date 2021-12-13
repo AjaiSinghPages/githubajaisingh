@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @githubajaisingh
 - 👀 I’m interested in DevOps/Functional Analysis
 - 🌱 I’m currently learning DevOps tool set
-- 💞️ I’m looking to collaborate on Business front analysis, Cloud Projects
+- 💞️ I’m looking to collaborate on Business front analysis, Cloud Projects, DevOps project
 - 📫 I am reachable through my emailid mails.ajai.singh@gmail.com
 
 <!---
